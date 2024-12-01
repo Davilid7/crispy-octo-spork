@@ -1,4 +1,4 @@
-# Vanilla JS example of minikit
+5a226bd6bf503ae4fb952cc1e9b585ffdf3a2954# Vanilla JS example of minikit
 
 Apart from a frontend, you'll need a backend, this template contains an example of that as well
 
